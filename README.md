@@ -20,6 +20,6 @@ Observe transações e saldos exibidos ao final.
 JDK 17 ou superior
 Ambiente de desenvolvimento Java
 ## ✍️ Autores
-[GabriellMatias]([link para o seu perfil no GitHub](https://github.com/GabriellMatias))
+[GabriellMatias](https://github.com/GabriellMatias))
 ## 📄 Licença
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE.md para detalhes.
